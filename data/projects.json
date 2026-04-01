@@ -17,9 +17,9 @@
       "title": "AutoFACS CLI Automation",
       "summary": "A separate automation track focused on prompt-governed CLI workflows, audit boundaries, and operational control for AI and MLOps systems.",
       "badges": ["Autonomous MLOps", "CLI Automation", "Prompt Governance", "Auditability"],
-      "repo": "CLI_REPO_URL",
+      "repo": "https://github.com/TFJune2025/autofacs-cli-automation",
       "demo": "",
-      "docs": "CLI_REPO_URL"
+      "docs": "https://github.com/TFJune2025/autofacs-cli-automation"
     },
     {
       "id": "pomodoro-led-timer",
