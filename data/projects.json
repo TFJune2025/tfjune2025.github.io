@@ -3,7 +3,7 @@
     {
       "id": "autofacs-cv",
       "type": "Computer Vision / ML",
-      "title": "AutoFACS CV / ML",
+      "title": "AutoFACS CV/ML",
       "summary": "A computer-vision project focused on emotion recognition and facial analysis using FACS-based coding, with emphasis on training discipline, evaluation, and deployment-aware inference workflows.",
       "badges": ["Emotion Recognition", "FACS", "Computer Vision", "PyTorch", "Inference"],
       "featured": true,
@@ -14,7 +14,7 @@
     {
       "id": "autofacs-cli",
       "type": "Agentic CLI / MLOps",
-      "title": "AutoFACS CLI / Automation",
+      "title": "AutoFACS CLI Automation",
       "summary": "A separate automation track focused on prompt-governed CLI workflows, audit boundaries, and operational control for AI and MLOps systems.",
       "badges": ["Autonomous MLOps", "CLI Automation", "Prompt Governance", "Auditability"],
       "repo": "CLI_REPO_URL",
