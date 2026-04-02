@@ -35,11 +35,11 @@
       "id": "kazkar-player",
       "type": "Embedded Systems / Audio Device",
       "title": "Казкар",
-      "summary": "A simple three-button MP3 player built on Arduino Uno and housed in a custom LightBurn-designed case, created so children can listen to audiobooks without the distractions of a screen or extra interface clutter.",
-      "badges": ["Arduino Uno", "MP3 Player", "Audio", "LightBurn", "Screen-Free Design"],
-      "repo": "",
+      "summary": "A simple three-button audio player built on Arduino Uno and housed in a custom LightBurn-designed case, created so children can listen to audiobooks without the distractions of a screen or extra interface clutter.",
+      "badges": ["Arduino Uno", "Audio Player", "microSD", "LightBurn", "Screen-Free Design"],
+      "repo": "https://github.com/TFJune2025/kazkar",
       "demo": "",
-      "docs": ""
+      "docs": "https://github.com/TFJune2025/kazkar"
     }
   ]
 }
