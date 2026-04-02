@@ -6,7 +6,12 @@ async function loadProjects() {
   const grid = document.getElementById("project-grid");
 
   try {
-    const response = await fetch("data/projects.json");
+    const PROJECTS_URL = "data/projects.json?v=20260402-1";
+
+    const response = await fetch(PROJECTS_URL, {
+      cache: "no-store"
+    });
+    
     const data = await response.json();
 
     grid.innerHTML = "";
