@@ -19,7 +19,7 @@
       "badges": ["Autonomous MLOps", "CLI Automation", "Prompt Governance", "Auditability"],
       "repo": "https://github.com/TFJune2025/autofacs-cli-automation",
       "demo": "",
-      "docs": "https://github.com/TFJune2025/autofacs-cli-automation"
+      "docs": "https://github.com/TFJune2025/autofacs-cli-automation/tree/main/docs"
     },
     {
       "id": "pomodoro-led-timer",
@@ -39,7 +39,7 @@
       "badges": ["Arduino Uno", "Audio Player", "microSD", "LightBurn", "Screen-Free Design"],
       "repo": "https://github.com/TFJune2025/kazkar",
       "demo": "",
-      "docs": "https://github.com/TFJune2025/kazkar"
+      "docs": "https://github.com/TFJune2025/kazkar/blob/main/docs/ELECTRONICS.md"
     }
   ]
 }
