@@ -25,11 +25,11 @@
       "id": "pomodoro-led-timer",
       "type": "Embedded Systems / Physical Computing",
       "title": "LED Pomodoro Timer",
-      "summary": "A custom Pomodoro timer built around an Arduino Mega, with a LightBurn-designed case and a focused physical interface for visible time-block tracking.",
-      "badges": ["Arduino Mega", "Embedded Systems", "LightBurn", "Case Design", "Physical Interface"],
-      "repo": "",
+      "summary": "A silent custom Arduino Mega Pomodoro timer with 30 high-visibility LEDs, dual focus/break controls, and a custom LightBurn enclosure.",
+      "badges": ["Arduino Mega", "Pomodoro Timer", "LightBurn", "Laser Cutting", "Focus Interface"],
+      "repo": "https://github.com/TFJune2025/pomodoro-led-timer",
       "demo": "",
-      "docs": ""
+      "docs": "https://github.com/TFJune2025/pomodoro-led-timer/tree/main/docs"
     },
     {
       "id": "kazkar-player",
