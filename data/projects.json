@@ -1,21 +1,21 @@
 {
   "projects": [
     {
-      "id": "autofacs-cv",
+      "id": "autofacs-cv-ml",
       "type": "Computer Vision / ML",
       "title": "AutoFACS CV/ML",
-      "summary": "A computer-vision project focused on emotion recognition and facial analysis using FACS-based coding, with emphasis on training discipline, evaluation, and deployment-aware inference workflows.",
+      "summary": "Hierarchical CV/ML pipeline for facial expression recognition inspired by FACS-based coding. Integrates relevance filtering and calibrated classification with a data-centric focus on training rigor, evaluation, and deployment-ready inference in real-world conditions.",
       "badges": ["Emotion Recognition", "FACS", "Computer Vision", "PyTorch", "Inference"],
       "featured": true,
-      "repo": "CV_REPO_URL",
+      "repo": "https://github.com/TFJune2025/autofacs-cv-ml",
       "demo": "",
-      "docs": "CV_REPO_URL"
+      "docs": "https://github.com/TFJune2025/autofacs-cv-ml/tree/main/docs"
     },
     {
-      "id": "autofacs-cli",
+      "id": "autofacs-cli-automation",
       "type": "Agentic CLI / MLOps",
       "title": "AutoFACS CLI Automation",
-      "summary": "A separate automation track focused on prompt-governed CLI workflows, audit boundaries, and operational control for AI and MLOps systems.",
+      "summary": "Prompt-governed CLI automation system for AutoFACS, emphasizing bounded execution, audit-first workflows, and human-in-the-loop control. Demonstrates control-plane design principles for reliable, traceable AI/ML operations.",
       "badges": ["Autonomous MLOps", "CLI Automation", "Prompt Governance", "Auditability"],
       "repo": "https://github.com/TFJune2025/autofacs-cli-automation",
       "demo": "",
@@ -32,10 +32,10 @@
       "docs": "https://github.com/TFJune2025/pomodoro-led-timer/tree/main/docs"
     },
     {
-      "id": "kazkar-player",
+      "id": "kazkar",
       "type": "Embedded Systems / Audio Device",
       "title": "Казкар",
-      "summary": "A simple three-button audio player built on Arduino Uno and housed in a custom LightBurn-designed case, created so children can listen to audiobooks without the distractions of a screen or extra interface clutter.",
+      "summary": "Arduino-based three-button audio player designed as a screen-free storytelling device for children. Built on Arduino Uno with a custom LightBurn-designed enclosure, emphasizing simplicity, durability, and distraction-free audiobook playback.",
       "badges": ["Arduino Uno", "Audio Player", "microSD", "LightBurn", "Screen-Free Design"],
       "repo": "https://github.com/TFJune2025/kazkar",
       "demo": "",
