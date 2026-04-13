@@ -8,7 +8,7 @@
       "badges": ["Emotion Recognition", "FACS", "Computer Vision", "PyTorch", "Inference"],
       "featured": true,
       "repo": "https://github.com/TFJune2025/autofacs-cv-ml",
-      "demo": "",
+      "demo": "https://huggingface.co/spaces/TFJune2025/autofacs-cv-ml",
       "docs": "https://github.com/TFJune2025/autofacs-cv-ml/tree/main/docs"
     },
     {
